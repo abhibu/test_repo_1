@@ -1,7 +1,11 @@
 1st commit - new file push
 
+<<<<<<< HEAD
 2nd commit - edit file
 
 3rd commit - pushing from local branch
 
 4th commit - edit for local branch
+=======
+2nd commit - edit file
+>>>>>>> parent of 9325d59... 3rd commit - pushing from local branch
